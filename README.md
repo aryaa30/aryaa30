@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryaa30
 - 👀 I’m interested in learn new things regarding computer programming.
-- 🌱 I’m currently learning c , c++, html,css
+- 🌱 I’m currently learning c , c++, html,css,javascript.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me mail at aryamansehra01@protonmail.com
 
